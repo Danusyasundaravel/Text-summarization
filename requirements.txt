@@ -1,0 +1,5 @@
+pyPDF          # For reading and writing the .pdf files
+nltk==3.6.3    # For additional text processing 
+rouge=1.0.1    # For evaluating the model on summarization
+sklearn        # For vectorization and measure similarities
+transforms     # For abstractive summarization
